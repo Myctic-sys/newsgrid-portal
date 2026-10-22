@@ -25,7 +25,7 @@ CSS Grid ve Flexbox düzenleri odaklı geliştirilmiş; teknoloji, ekonomi, kül
 ## 🚀 Canlı Demo
 
 Projenin canlı versiyonuna Netlify üzerinden erişebilirsiniz:
-[NewsGrid Portal Live Preview](https://newsgrid-portal-myctic.netlify.app)
+[NewsGrid Portal Live Preview](https://newsgrid-portal-preview.netlify.app/)
 
 ---
 
